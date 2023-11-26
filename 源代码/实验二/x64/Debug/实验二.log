@@ -1,0 +1,8 @@
+﻿  main.c
+D:\Desktop\2班2202023121谢领实验二\源代码\实验二\main.c(23,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\2班2202023121谢领实验二\源代码\实验二\main.c(32,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\2班2202023121谢领实验二\源代码\实验二\main.c(40,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\2班2202023121谢领实验二\源代码\实验二\main.c(56,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\2班2202023121谢领实验二\源代码\实验二\main.c(59,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\2班2202023121谢领实验二\源代码\实验二\main.c(65,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  实验二.vcxproj -> D:\Desktop\2班2202023121谢领实验二\源代码\实验二\x64\Debug\实验二.exe
